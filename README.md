@@ -1,6 +1,5 @@
 ## Olá, seja bem-vindo ao meu perfil!
 
-* Atualmente estou estudando Sql e C#
 * Estou no 3° período do curso de Análise e Desenvolvimento de Sistemas
 * Moro na Serra-ES/Brasil
 
